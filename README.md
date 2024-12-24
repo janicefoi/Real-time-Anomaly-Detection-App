@@ -2,7 +2,7 @@
 
 This project is a Python-based application designed to detect anomalies in data streams in real-time. By leveraging powerful algorithms and visualization tools, it enables efficient anomaly identification for various data types and use cases.
 
-[Screenshot of Anomaly Detection](screenshotreal.png)
+[Screenshot of Anomaly Detection](Screenshotreal.png)
 
 ## Features
 
