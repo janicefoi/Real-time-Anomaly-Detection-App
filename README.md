@@ -21,4 +21,4 @@ This project is a Python-based application designed to detect anomalies in data 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/real-time-anomaly-detection.git
+   git clone https://github.com/janicefoi/real-time-anomaly-detection-app.git
